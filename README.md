@@ -1,6 +1,3 @@
-
-Absolutely, here's a README prompt tailored for the provided Python code representing a basic coffee machine:
-
 Basic Coffee Machine README
 Description
 This Python code represents a basic simulation of a coffee machine. It allows users to make espresso and latte while managing ingredient levels and refilling them as needed.
